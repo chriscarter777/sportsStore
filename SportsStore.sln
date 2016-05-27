@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.Domain", "SportsStore.Domain\SportsStore.Domain.csproj", "{98840135-B79D-4D5B-8BAA-F783C86E80C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.WebUI", "SportsStore.WebUI\SportsStore.WebUI.csproj", "{17C48FA8-D327-4EC3-AC64-E62DDE62DCF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.UnitTests", "SportsStore.UnitTests\SportsStore.UnitTests.csproj", "{68CF3207-985A-404E-9583-C2DD13459506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98840135-B79D-4D5B-8BAA-F783C86E80C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98840135-B79D-4D5B-8BAA-F783C86E80C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98840135-B79D-4D5B-8BAA-F783C86E80C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98840135-B79D-4D5B-8BAA-F783C86E80C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17C48FA8-D327-4EC3-AC64-E62DDE62DCF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C48FA8-D327-4EC3-AC64-E62DDE62DCF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C48FA8-D327-4EC3-AC64-E62DDE62DCF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C48FA8-D327-4EC3-AC64-E62DDE62DCF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68CF3207-985A-404E-9583-C2DD13459506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CF3207-985A-404E-9583-C2DD13459506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CF3207-985A-404E-9583-C2DD13459506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CF3207-985A-404E-9583-C2DD13459506}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
